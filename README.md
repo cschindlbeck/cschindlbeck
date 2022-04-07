@@ -9,8 +9,9 @@ Connect with me on:
 [![ResearchGate Badge](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Christopher-Schindlbeck)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/schindlbeck)
 [![Leetcode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/christopsy666/)
+[![CodeForces Badge](https://img.shields.io/static/v1?style=flat&message=Codeforces&color=1F8ACB&logo=Codeforces&logoColor=FFFFFF&label=)](https://codeforces.com/profile/cschindlbeck)
+[![CodeWars Badge](https://img.shields.io/static/v1?style=flat&message=Codewars&color=B1361E&logo=Codewars&logoColor=FFFFFF&label=)](https://www.codewars.com/users/cschindlbeck)
 [![Lichess Badge](https://img.shields.io/static/v1?style=flat&message=Lichess&color=000000&logo=Lichess&logoColor=FFFFFF&label=)](https://lichess.org/@/christopsy666)
-
 
 ## 🛠️ My Tool and Skill Stack
 
@@ -84,11 +85,11 @@ Connect with me on:
 ## 📈 My Github Stats
 
 <p align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=cschindlbeck&show_icons=true&include_all_commits=true&theme=gotham&hide_border=false" alt="cschindlbeck's github stats" /></a> | <a href="https://github.com/cschindlbeck/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cschindlbeck&layout=compact&theme=gotham&hide_border=false" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=cschindlbeck&show_icons=true&include_all_commits=true&theme=gotham&hide_border=false" alt="cschindlbeck's github stats" /></a> <a href="https://github.com/cschindlbeck/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cschindlbeck&layout=compact&theme=gotham&hide_border=false" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=cschindlbeck&style=flat&color=brightgreen" alt=""/>
-<img src="https://komarev.com/ghpvc/?username=cschindlbeck" alt="cschindlbeck" />
-<img src="https://badges.pufler.dev/years/cschindlbeck" alt="cschindlbeck" />
+<img src="https://komarev.com/ghpvc/?username=cschindlbeck&style=flat&color=blue" alt="cschindlbeck_profileviews" />
+<img src="https://badges.pufler.dev/years/cschindlbeck?style=flat&color=blue" alt="cschindlbeck_years" />
+
 </p>
