@@ -44,6 +44,7 @@ Connect with me on:
   <img alt="ROS" src="https://img.shields.io/static/v1?style=flat&message=ROS&color=22314E&logo=ROS&logoColor=FFFFFF&label=" />
   <img alt="git" src="https://img.shields.io/badge/git-E44C30?style=flat&logo=git&logoColor=white" />
   <img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white" />
+  <img alt="opencv" src="https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv&logoColor=5C3EE8" />
   <img alt="numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white" />
   <img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white">
   <img alt="tmux" src="https://img.shields.io/badge/tmux-1BB91F?style=flat&logo=tmux&logoColor=white" />
