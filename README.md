@@ -94,3 +94,5 @@ Connect with me on:
   <img src="https://komarev.com/ghpvc/?username=cschindlbeck&style=flat&color=blue" alt="cschindlbeck_profileviews" />
   <img src="https://badges.pufler.dev/years/cschindlbeck?style=flat&color=blue" alt="cschindlbeck_years" />
 </p>
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/cschindlbeck/cschindlbeck/output/github-snake-dark.svg?palette=github-dark)
