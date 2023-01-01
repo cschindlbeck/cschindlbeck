@@ -16,6 +16,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
     - name: Clone lichess_ascii_tracker and add Lichess ascii to README
       run: |
         pwd
