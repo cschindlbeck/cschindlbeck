@@ -1,0 +1,37 @@
+name: Add lichess README
+
+on: [push]
+  #on:
+  #push:
+  #branches: [ "master" ]
+  #pull_request:
+  #branches: [ "master" ]
+  # schedule:
+  #  - cron: "*/10 * * * *"
+
+env:
+  API_TOKEN: ${{ secrets.API_TOKEN }}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+      with:
+        name: cschindlbeck/lichess-ascii-rating-tracker
+        ref: refs/heads/master
+    - name: Add Lichess ascii to README
+      run: |
+        sudo rm -rf /usr/lib/python3/dist-packages/simplejson
+        pip install -r requirements.txt
+        cat template/README.md > README.md
+        python3 lichess_ascii_tracker.py -r Bullet >> README.md
+    - name: Push README
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "41898283+github-actions[bot]@users.noreply.github.com"
+        # Force add since README is on gitignore
+        git add -f README.ms
+        # Prevent empty add to result in error
+        git diff-index --quiet HEAD || git commit -m "Updated README with lichess"
+        git push
