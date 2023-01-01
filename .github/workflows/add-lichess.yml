@@ -19,7 +19,7 @@ jobs:
     - uses: actions/checkout@master
       with:
         name: cschindlbeck/lichess-ascii-rating-tracker
-        ref: refs/heads/master
+          #ref: refs/heads/master
     - name: Add Lichess ascii to README
       run: |
         sudo rm -rf /usr/lib/python3/dist-packages/simplejson
