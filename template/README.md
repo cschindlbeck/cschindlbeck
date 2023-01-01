@@ -99,31 +99,3 @@ Connect with me on:
 </p>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/cschindlbeck/cschindlbeck/output/github-snake-dark.svg?palette=github-dark)
-## &#9816; My Lichess Stats
-<pre>
-<code>
-
-          _      _      _
-         | |    (_)    | |
-         | |     _  ___| |__   ___  ___ ___
-         | |    | |/ __| '_ \ / _ \/ __/ __|
-         | |____| | (__| | | |  __/\__ \__ \
-         |______|_|\___|_| |_|\___||___/___/
-        
-    1934 ┤
-    1866 ┤                                              ╭──╮╭──╮    ╭─╮
-    1797 ┤                                ╭╮     ╭╮╭╮ ╭─╯  ╰╯  ╰╮╭──╯ ╰─
-    1729 ┤                           ╭╮  ╭╯╰╮╭──╮│╰╯╰─╯         ╰╯
-    1660 ┤                          ╭╯│╭╮│  ╰╯  ╰╯
-    1592 ┤                      ╭╮╭╮│ ╰╯╰╯
-    1524 ┼╮    ╭──╮      ╭╮╭────╯╰╯╰╯
-    1455 ┤│   ╭╯  │╭─╮╭╮╭╯╰╯
-    1387 ┤╰╮ ╭╯   ╰╯ ╰╯╰╯
-    1318 ┤ │╭╯
-    1250 ┤ ╰╯
-
-User: christopsy666, Rating type: Bullet on lichess.org
-Last update: 01.01.2023 14:52:22
-</code>
-</pre>
-Lichess stats generated via [lichess-ascii-rating-tracker](https://github.com/cschindlbeck/lichess-ascii-rating-tracker.git).

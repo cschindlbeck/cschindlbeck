@@ -1,0 +1,44 @@
+name: Add lichess README
+
+on: [push]
+  #on:
+  #push:
+  #branches: [ "master" ]
+  #pull_request:
+  #branches: [ "master" ]
+  # schedule:
+  #  - cron: "*/10 * * * *"
+
+env:
+  API_TOKEN: ${{ secrets.API_TOKEN }}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+    - name: Clone lichess_ascii_tracker and add Lichess ascii to README
+      run: |
+        cat template/README.md > README.md
+        git clone https://github.com/cschindlbeck/lichess-ascii-rating-tracker.git
+        cd lichess-ascii-rating-tracker
+        sudo rm -rf /usr/lib/python3/dist-packages/simplejson
+        pip install -r requirements.txt
+        echo "## &#9816; My Lichess Stats" >> ../README.md
+        echo "<pre>" >> ../README.md
+        echo "<code>" >> ../README.md
+        python3 lichess_ascii_tracker.py -r Bullet >> ../README.md
+        echo "</code>" >> ../README.md
+        echo "</pre>" >> ../README.md
+        echo "Lichess stats generated via [lichess-ascii-rating-tracker](https://github.com/cschindlbeck/lichess-ascii-rating-tracker.git)." >> ../README.md
+        cd ..
+    - name: Push README
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "41898283+github-actions[bot]@users.noreply.github.com"
+        # Force add since README is on gitignore
+        git add -f README.md
+        # Prevent empty add to result in error
+        git diff-index --quiet HEAD || git commit -m "Updated README with lichess"
+        git push
