@@ -99,7 +99,7 @@ Connect with me on:
 </p>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/cschindlbeck/cschindlbeck/output/github-snake-dark.svg?palette=github-dark)
-<## My Lichess Stats>
+## My Lichess Stats
 <pre>
 <code>
 
@@ -123,6 +123,6 @@ Connect with me on:
     1250 ┤ ╰╯
 
 User: christopsy666, Rating type: Bullet on lichess.org
-Last update: 01.01.2023 14:45:54
+Last update: 01.01.2023 14:46:37
 </code>
 </pre>
