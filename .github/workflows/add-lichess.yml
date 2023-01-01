@@ -18,6 +18,8 @@ jobs:
     steps:
     - name: Clone lichess_ascii_tracker and add Lichess ascii to README
       run: |
+        pwd
+        ls -la
         cat template/README.md > README.md
         git clone https://github.com/cschindlbeck/lichess-ascii-rating-tracker.git
         cd lichess-ascii-rating-tracker
