@@ -16,18 +16,14 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@master
-      with:
-        name: cschindlbeck/lichess-ascii-rating-tracker
-          #ref: refs/heads/master
-    - name: Add Lichess ascii to README
+    - name: Clone lichess_ascii_tracker and add Lichess ascii to README
       run: |
-        pwd
-        ls -la
+        cat template/README.md > README.md
+        git clone https://github.com/cschindlbeck/lichess-ascii-rating-tracker.git
+        cd lichess-ascii-rating-tracker
         sudo rm -rf /usr/lib/python3/dist-packages/simplejson
         pip install -r requirements.txt
-        cat template/README.md > README.md
-        python3 lichess_ascii_tracker.py -r Bullet >> README.md
+        python3 lichess_ascii_tracker.py -r Bullet >> ../README.md
     - name: Push README
       run: |
         git config --global user.name "github-actions[bot]"
