@@ -25,7 +25,7 @@ jobs:
         cd lichess-ascii-rating-tracker
         sudo rm -rf /usr/lib/python3/dist-packages/simplejson
         pip install -r requirements.txt
-        echo "<## My Lichess Stats>" >> ../README.md
+        echo "## My Lichess Stats" >> ../README.md
         echo "<pre>" >> ../README.md
         echo "<code>" >> ../README.md
         python3 lichess_ascii_tracker.py -r Bullet >> ../README.md
