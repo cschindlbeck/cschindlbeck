@@ -71,7 +71,7 @@ Connect with me on:
 <p align="center">
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
   <img alt="Arch" src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat" />
-  <img alt="Fedora" src="https://img.shields.io/badge/Fedora-blue?style=flat&logo=Fedora" />
+  <img alt="Fedora" src="https://img.shields.io/badge/Fedora-black?style=flat&logo=Fedora" />
   <img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" />
   <img alt="Kali" src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white" />
