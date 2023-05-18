@@ -79,7 +79,8 @@ Connect with me on:
 </p>
 
 ### Web Development
-
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 <p align="center">
   <img alt="html" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img alt="css" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3" />
