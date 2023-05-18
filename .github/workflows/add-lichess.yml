@@ -40,4 +40,4 @@ jobs:
         git add -f README.md
         # Prevent empty add to result in error
         git diff-index --quiet HEAD || git commit -m "Updated README with lichess"
-        git push
+        git push origin $CI_COMMIT_BRANCH
