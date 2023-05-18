@@ -36,8 +36,9 @@ jobs:
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "41898283+github-actions[bot]@users.noreply.github.com"
+        git checkout $CI_COMMIT_BRANCH
         # Force add since README is on gitignore
         git add -f README.md
         # Prevent empty add to result in error
         git diff-index --quiet HEAD || git commit -m "Updated README with lichess"
-        git push origin HEAD:$CI_COMMIT_BRANCH
+        git push origin $CI_COMMIT_BRANCH
