@@ -79,6 +79,7 @@ Connect with me on:
 </p>
 
 ### Web Development
+
 <p align="center">
   <img alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=React&logoColor=%2361DAFB" />
   <img alt="html" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
