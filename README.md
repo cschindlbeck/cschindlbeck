@@ -80,7 +80,7 @@ Connect with me on:
 
 ### Web Development
 <p align="center">
-  <img alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" />
+  <img alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=React&logoColor=%2361DAFB" />
   <img alt="html" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img alt="css" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3" />
   <img alt="mui" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=mui&logoColor=white" />
