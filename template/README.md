@@ -1,8 +1,8 @@
-## Hi there, I'm Chris! 👋
+# Hi there, I'm Chris! 👋
 
 I am a Software Development Engineer interested in Robotics, AI, and Blockchain with a ❤️ for DevOps.
 
-Connect with me on: 
+Connect with me on:
 
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat&logo=google-chrome&logoColor=white)](https://cschindlbeck.github.io/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chrisschindlbeck/)
