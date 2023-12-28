@@ -1,8 +1,8 @@
-## Hi there, I'm Chris! 👋
+# Hi there, I'm Chris! 👋
 
 I am a Software Development Engineer interested in Robotics, AI, and Blockchain with a ❤️ for DevOps.
 
-Connect with me on: 
+Connect with me on:
 
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat&logo=google-chrome&logoColor=white)](https://cschindlbeck.github.io/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chrisschindlbeck/)
@@ -128,7 +128,7 @@ Connect with me on:
     1250 ┤ ╰╯
 
 User: christopsy666, Rating type: Bullet on lichess.org
-Last update: 14.12.2023 15:47:45
+Last update: 28.12.2023 14:37:14
 </code>
 </pre>
 Lichess stats generated via [lichess-ascii-rating-tracker](https://github.com/cschindlbeck/lichess-ascii-rating-tracker.git).
