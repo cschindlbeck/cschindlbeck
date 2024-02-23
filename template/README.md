@@ -37,7 +37,8 @@ Connect with me on:
   <img alt="bash" src="https://img.shields.io/badge/bash-121011.svg?logo=gnu-bash&logoColor=white">
   <img alt="rust" src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" />
   <img alt="solidity" src="https://img.shields.io/badge/Solidity-e6e6e6?style=flat&logo=solidity&logoColor=black" />
-  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white">
+  <img alt="lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white">
+  <img alt="markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white">
 </p>
 
 ### Tools & Frameworks
