@@ -102,7 +102,7 @@ Connect with me on:
 
 <p align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cschindlbeck&theme=github_dark" alt="cschindlbeck's stats" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cschindlbeck&theme=github_dark&utcOffset=8" alt="cschindlbeck's commit stats" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cschindlbeck&theme=github_dark&utcOffset=1" alt="cschindlbeck's commit stats" />
 </p>
 
 <p align="center">
@@ -140,7 +140,7 @@ Connect with me on:
     1250 ┤ ╰╯
 
 User: christopsy666, Rating type: Bullet on lichess.org
-Last update: 19.03.2024 12:27:53
+Last update: 19.03.2024 16:50:36
 </code>
 </pre>
 Lichess stats generated via [lichess-ascii-rating-tracker](https://github.com/cschindlbeck/lichess-ascii-rating-tracker.git).
