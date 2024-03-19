@@ -97,8 +97,17 @@ Connect with me on:
 ## 📈 My Github Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats-cschindlbeck.vercel.app/api/top-langs/?username=cschindlbeck&layout=compact&theme=gotham&hide_border=false&count_private=true&langs_count=10" alt="cschindlbeck's github language stats" />
-  <img align="center" src="https://github-readme-stats-cschindlbeck.vercel.app/api?username=cschindlbeck&show_icons=true&include_all_commits=true&theme=gotham&hide_border=false&count_private=true&hide_rank=true" alt="cschindlbeck's github stats" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cschindlbeck&theme=github_dark" alt="cschindlbeck's overview stats" />
+</p>
+
+<p align="center">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cschindlbeck&theme=github_dark" alt="cschindlbeck's stats" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cschindlbeck&theme=github_dark&utcOffset=8" alt="cschindlbeck's commit stats" />
+</p>
+
+<p align="center">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cschindlbeck&theme=github_dark" alt="cschindlbeck's github language repo stats" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cschindlbeck&theme=github_dark" alt="cschindlbeck's github commit stats" />
 </p>
 
 <p align="center">
