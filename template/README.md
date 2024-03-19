@@ -102,7 +102,7 @@ Connect with me on:
 
 <p align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cschindlbeck&theme=github_dark" alt="cschindlbeck's stats" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cschindlbeck&theme=github_dark&utcOffset=8" alt="cschindlbeck's commit stats" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cschindlbeck&theme=github_dark&utcOffset=1" alt="cschindlbeck's commit stats" />
 </p>
 
 <p align="center">
