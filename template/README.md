@@ -58,7 +58,8 @@ Connect with me on:
 ### DevOps & Cloud Technologies
 
 <p align="center">
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img alt="docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img alt="kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white" />
   <img alt="ansible" src="https://img.shields.io/badge/ansible-%231A1918.svg?style=flat&logo=ansible&logoColor=white" />
   <img alt="terraform" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white" />
   <img alt="aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" />
