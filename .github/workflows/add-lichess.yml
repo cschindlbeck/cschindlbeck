@@ -1,3 +1,4 @@
+---
 name: Add lichess README
 on:
   push:
