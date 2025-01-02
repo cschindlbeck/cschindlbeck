@@ -107,8 +107,10 @@ Connect with me on:
 
 <p align="center">
   <img alt="terraform-associate" src="https://images.credly.com/size/340x340/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" width="125" height="125">
+  <img alt="amazon-eks" src="https://images.credly.com/size/340x340/images/9bcbde6d-1754-4617-9337-124f7b10a6c2/image.png" width="125" height="125">
 </p>
 
+- [Amazon EKS](https://www.credly.com/badges/51fa72ad-75ef-4068-815c-27d28b95dda5/public_url)
 - [KodeKloud Kustomize](https://learn.kodekloud.com/certificate/c3c9d63c-d5a2-4ee5-bc31-fd029996cb2e)
 - [HashiCorp Certified: Terraform Associate](https://www.credly.com/badges/48e35896-034f-4a05-a923-6f5ca7def4c6)
 - [Certified Professional for Software Architecture (iSAQB CPSA-F)](https://zertdb.isqi.org/de/download/certificate/token/zQcwjW%241A_-V_t6a-9_7)
