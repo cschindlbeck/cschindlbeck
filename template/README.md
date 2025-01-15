@@ -20,14 +20,14 @@ Connect with me on:
 
 <p align="center">
   <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img alt="c" src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
-  <img alt="cpp" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
   <img alt="bash" src="https://img.shields.io/badge/bash-121011.svg?logo=gnu-bash&logoColor=white" />
-  <img alt="rust" src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" />
-  <img alt="solidity" src="https://img.shields.io/badge/Solidity-e6e6e6?style=flat&logo=solidity&logoColor=black" />
+  <img alt="YAML" src="https://img.shields.io/badge/-Yaml-F05032?style=flat&logo=Yaml&logoColor=white" />
   <img alt="lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white" />
   <img alt="markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white" />
-  <img alt="YAML" src="https://img.shields.io/badge/-Yaml-F05032?style=flat&logo=Yaml&logoColor=white" />
+  <img alt="c" src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
+  <img alt="cpp" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img alt="rust" src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" />
+  <img alt="solidity" src="https://img.shields.io/badge/Solidity-e6e6e6?style=flat&logo=solidity&logoColor=black" />
 </p>
 
 ### DevOps & Cloud Technologies
@@ -35,6 +35,7 @@ Connect with me on:
 <p align="center">
   <img alt="docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
   <img alt="kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white" />
+  <img alt="helm" src="https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=fff)" />
   <img alt="ansible" src="https://img.shields.io/badge/ansible-%231A1918.svg?style=flat&logo=ansible&logoColor=white" />
   <img alt="terraform" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white" />
   <img alt="aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" />
@@ -103,13 +104,15 @@ Connect with me on:
 <img src="https://img.shields.io/badge/Blockchain-critical?style=flat" />
 </p>
 
-## 🏅 My Certifications 
+## 🏅 My Certifications & Courses
 
 <p align="center">
+  <img alt="cka" src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="125" height="125">
   <img alt="terraform-associate" src="https://images.credly.com/size/340x340/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" width="125" height="125">
   <img alt="amazon-eks" src="https://images.credly.com/size/340x340/images/9bcbde6d-1754-4617-9337-124f7b10a6c2/image.png" width="125" height="125">
 </p>
 
+- [Certified Kubernetes Administrator (CKA)](https://www.credly.com/badges/9d1c30b5-f3ec-4f38-9087-3176ba41f667/public_url)
 - [Amazon EKS](https://www.credly.com/badges/51fa72ad-75ef-4068-815c-27d28b95dda5/public_url)
 - [KodeKloud Kustomize](https://learn.kodekloud.com/certificate/c3c9d63c-d5a2-4ee5-bc31-fd029996cb2e)
 - [HashiCorp Certified: Terraform Associate](https://www.credly.com/badges/48e35896-034f-4a05-a923-6f5ca7def4c6)
@@ -117,7 +120,7 @@ Connect with me on:
 - [Agile Scrum Master](https://mylogin.exin.nl/polarserver.asp?FrameSet=Minimal&ToolName=CertificateCheckTool&Framed=1&LastName=Schindlbeck&CertificateNumber=6337316.20794863&ModuleID=630589)
 - [Agile Scrum Product Owner](https://mylogin.exin.nl/AppPool_5/polarserver.asp?FrameSet=Minimal&ToolName=CertificateCheckTool&Framed=1&LastName=Schindlbeck&CertificateNumber=6337316.20794001&ModuleID=630641&SID=80DACB7C5BBC16548C800E6EB9583B7C&PageID=0)
 
-See my certifications on 👉🏻 [Credly](https://www.credly.com/users/chris-schindlbeck)
+See my certifications on 👉🏻[Credly](https://www.credly.com/users/chris-schindlbeck) and [CertDirectory.io](https://certdirectory.io/profile/65263cfc-1d9c-41f1-9bbe-52e4af35ab07)
 
 ## 📈 My Github Stats
 
