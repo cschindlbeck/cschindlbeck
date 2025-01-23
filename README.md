@@ -47,6 +47,8 @@ Connect with me on:
 
 https://img.shields.io/badge/Drone_CI-212121?style=for-the-badge&logo=drone&logoColor=white
 
+https://img.shields.io/badge/Jenkins-49728B?style=for-the-badge&logo=jenkins&logoColor=white
+
 
 
   <img alt="azure_devops" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white" />
@@ -173,7 +175,7 @@ See my certifications on 👉🏻[Credly](https://www.credly.com/users/chris-sch
     1250 ┤
 
 User: christopsy666, Rating type: Bullet on lichess.org
-Last update: 23.01.2025 21:28:42
+Last update: 23.01.2025 21:30:37
 </code>
 </pre>
 Lichess stats generated via [lichess-ascii-rating-tracker](https://github.com/cschindlbeck/lichess-ascii-rating-tracker.git).
