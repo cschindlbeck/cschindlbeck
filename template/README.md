@@ -44,6 +44,11 @@ Connect with me on:
   <img alt="github_pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white" />
   <img alt="gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white" />
   <img alt="gitlab_ci" src="https://img.shields.io/badge/GitLab%20CI-%23181717.svg?style=flat&logo=gitlab&logoColor=white" />
+
+https://img.shields.io/badge/Drone_CI-212121?style=for-the-badge&logo=drone&logoColor=white
+
+
+
   <img alt="azure_devops" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white" />
   <img alt="vault" src="https://img.shields.io/badge/Vault-FFD814?style=flat&logo=Vault&logoColor=black" />
   <img alt="packer" src="https://img.shields.io/badge/packer-%23E7EEF0.svg?style=flat&logo=packer&logoColor=%2302A8EF" />
