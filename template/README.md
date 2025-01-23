@@ -47,6 +47,8 @@ Connect with me on:
 
 https://img.shields.io/badge/Drone_CI-212121?style=for-the-badge&logo=drone&logoColor=white
 
+https://img.shields.io/badge/Jenkins-49728B?style=for-the-badge&logo=jenkins&logoColor=white
+
 
 
   <img alt="azure_devops" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white" />
