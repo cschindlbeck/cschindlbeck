@@ -28,32 +28,64 @@ Connect with me on:
   <img alt="cpp" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
   <img alt="rust" src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" />
   <img alt="solidity" src="https://img.shields.io/badge/Solidity-e6e6e6?style=flat&logo=solidity&logoColor=black" />
+  <img alt="json" src="https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white" />
 </p>
 
 ### DevOps & Cloud Technologies
 
 <p align="center">
-  <img alt="docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img alt="kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white" />
-  <img alt="helm" src="https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=fff)" />
+  <img alt="aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" />
+  <img alt="vault" src="https://img.shields.io/badge/Vault-FFD814?style=flat&logo=Vault&logoColor=black" />
+</p>
+
+### Infrastructure As Code
+
+<p align="center">
   <img alt="ansible" src="https://img.shields.io/badge/ansible-%231A1918.svg?style=flat&logo=ansible&logoColor=white" />
   <img alt="terraform" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white" />
-  <img alt="aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" />
-  <img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
-  <img alt="github_ci" src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white" />
-  <img alt="github_pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white" />
-  <img alt="gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white" />
-  <img alt="gitlab_ci" src="https://img.shields.io/badge/GitLab%20CI-%23181717.svg?style=flat&logo=gitlab&logoColor=white" />
-  <img alt="azure_devops" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white" />
-  <img alt="vault" src="https://img.shields.io/badge/Vault-FFD814?style=flat&logo=Vault&logoColor=black" />
   <img alt="packer" src="https://img.shields.io/badge/packer-%23E7EEF0.svg?style=flat&logo=packer&logoColor=%2302A8EF" />
 </p>
 
-### Tools & Frameworks & Libraries
+
+### Container & Orchestration
+
+<p align="center">
+  <img alt="docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img alt="kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white" />
+  <img alt="helm" src="https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=fff)" />
+</p>
+
+### CI/CD
+
+<p align="center">
+  <img alt="gitlab_ci" src="https://img.shields.io/badge/GitLab%20CI-%23181717.svg?style=flat&logo=gitlab&logoColor=white" />
+  <img alt="github_ci" src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white" />
+  <img alt="jenkins" src="https://img.shields.io/badge/Jenkins-49728B?style=flat&logo=jenkins&logoColor=white" />
+  <img alt="azure_devops" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white" />
+</p>
+
+### Databases
+
+<p align="center">
+  <img alt="dbeaver" src="https://img.shields.io/badge/dbeaver-382923?style=flat&logo=dbeaver&logoColor=white" />
+  <img alt="dynamodb" src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white" />
+  <img alt="sqlite" src="https://img.shields.io/badge/Sqlite-003B57?style=flat&logo=sqlite&logoColor=white" />
+  <img alt="postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+</p>
+
+### Version Control Systems
+
+<p align="center">
+  <img alt="git" src="https://img.shields.io/badge/git-E44C30?style=flat&logo=git&logoColor=white" />
+  <img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
+  <img alt="github_pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white" />
+  <img alt="gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white" />
+</p>
+
+### Tools, Frameworks & Libraries
 
 <p align="center">
   <img alt="ROS" src="https://img.shields.io/static/v1?style=flat&message=ROS&color=22314E&logo=ROS&logoColor=FFFFFF&label=" />
-  <img alt="git" src="https://img.shields.io/badge/git-E44C30?style=flat&logo=git&logoColor=white" />
   <img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white" />
   <img alt="neovim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white" />
   <img alt="opencv" src="https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv&logoColor=5C3EE8" />
@@ -77,6 +109,7 @@ Connect with me on:
   <img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" />
   <img alt="Kali" src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white" />
+  <img alt="Macos" src="https://img.shields.io/badge/mac%20os-000000?style=flat&logo=apple&logoColor=white" />
   <img alt="Windows" src="https://img.shields.io/badge/-Windows-007ACC?style=flat&logo=windows&logoColor=white" />
 </p>
 
@@ -95,13 +128,13 @@ Connect with me on:
 ### Domain Knowledge
 
 <p align="center">
-<img src="https://img.shields.io/badge/Robotics-green?style=flat" />
-<img src="https://img.shields.io/badge/Control-red?style=flat" />
-<img src="https://img.shields.io/badge/Motion Planning-blue?style=flat" />
-<img src="https://img.shields.io/badge/Sensor Fusion-yellowgreen?style=flat" />
-<img src="https://img.shields.io/badge/Signal and Image Processing-blueviolet?style=flat" />
-<img src="https://img.shields.io/badge/Machine Learning-success?style=flat" />
-<img src="https://img.shields.io/badge/Blockchain-critical?style=flat" />
+  <img src="https://img.shields.io/badge/Robotics-green?style=flat" />
+  <img src="https://img.shields.io/badge/Control-red?style=flat" />
+  <img src="https://img.shields.io/badge/Motion Planning-blue?style=flat" />
+  <img src="https://img.shields.io/badge/Sensor Fusion-yellowgreen?style=flat" />
+  <img src="https://img.shields.io/badge/Signal and Image Processing-blueviolet?style=flat" />
+  <img src="https://img.shields.io/badge/Machine Learning-success?style=flat" />
+  <img src="https://img.shields.io/badge/Blockchain-critical?style=flat" />
 </p>
 
 ## 🏅 My Certifications & Courses

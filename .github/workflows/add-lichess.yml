@@ -1,5 +1,5 @@
 ---
-name: Add lichess README
+name: Generate README from template and lichess stats
 on:
   push:
     branches: ["main"]
