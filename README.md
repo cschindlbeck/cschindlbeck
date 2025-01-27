@@ -46,7 +46,6 @@ Connect with me on:
   <img alt="packer" src="https://img.shields.io/badge/packer-%23E7EEF0.svg?style=flat&logo=packer&logoColor=%2302A8EF" />
 </p>
 
-
 ### Container & Orchestration
 
 <p align="center">
@@ -71,6 +70,12 @@ Connect with me on:
   <img alt="dynamodb" src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white" />
   <img alt="sqlite" src="https://img.shields.io/badge/Sqlite-003B57?style=flat&logo=sqlite&logoColor=white" />
   <img alt="postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+</p>
+
+### Monitoring
+
+<p align="center">
+  <img alt="dynatrace" src="https://img.shields.io/badge/Dynatrace-1496FF?logo=dynatrace&logoColor=fff&style=flat" />
 </p>
 
 ### Version Control Systems
@@ -201,7 +206,7 @@ See my certifications on 👉🏻[Credly](https://www.credly.com/users/chris-sch
     1250 ┤
 
 User: christopsy666, Rating type: Bullet on lichess.org
-Last update: 24.01.2025 13:21:52
+Last update: 27.01.2025 12:12:06
 </code>
 </pre>
 Lichess stats generated via [lichess-ascii-rating-tracker](https://github.com/cschindlbeck/lichess-ascii-rating-tracker.git).
