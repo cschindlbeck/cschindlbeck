@@ -9,7 +9,7 @@ Connect with me on:
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/cschindlbeck)
 [![ResearchGate Badge](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Christopher-Schindlbeck)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/schindlbeck)
-[![Leetcode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/christopsy666/)
+[![Leetcode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/cschindlbeck)
 [![CodeForces Badge](https://img.shields.io/static/v1?style=flat&message=Codeforces&color=1F8ACB&logo=Codeforces&logoColor=FFFFFF&label=)](https://codeforces.com/profile/cschindlbeck)
 [![CodeWars Badge](https://img.shields.io/static/v1?style=flat&message=Codewars&color=B1361E&logo=Codewars&logoColor=FFFFFF&label=)](https://www.codewars.com/users/cschindlbeck)
 [![Lichess Badge](https://img.shields.io/static/v1?style=flat&message=Lichess&color=000000&logo=Lichess&logoColor=FFFFFF&label=)](https://lichess.org/@/christopsy666)
