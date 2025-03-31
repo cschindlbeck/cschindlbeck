@@ -77,6 +77,7 @@ Connect with me on:
 
 <p align="center">
   <img alt="dynatrace" src="https://img.shields.io/badge/Dynatrace-1496FF?logo=dynatrace&logoColor=fff&style=flat" />
+  <img alt="prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white" />
 </p>
 
 ### Version Control Systems
