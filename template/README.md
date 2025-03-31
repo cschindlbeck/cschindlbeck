@@ -29,6 +29,7 @@ Connect with me on:
   <img alt="rust" src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" />
   <img alt="solidity" src="https://img.shields.io/badge/Solidity-e6e6e6?style=flat&logo=solidity&logoColor=black" />
   <img alt="groovy" src="https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=flat&logo=Apache+Groovy&logoColor=white" />
+  <img alt="golang" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white" />
   <img alt="json" src="https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white" />
 </p>
 
