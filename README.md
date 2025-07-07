@@ -156,7 +156,7 @@ Connect with me on:
 - [Certified Kubernetes Administrator (CKA)](https://www.credly.com/badges/9d1c30b5-f3ec-4f38-9087-3176ba41f667/public_url)
 - [Amazon EKS](https://www.credly.com/badges/51fa72ad-75ef-4068-815c-27d28b95dda5/public_url)
 - [KodeKloud Kustomize](https://learn.kodekloud.com/certificate/c3c9d63c-d5a2-4ee5-bc31-fd029996cb2e)
-- [HashiCorp Certified: Terraform Associate](https://www.credly.com/badges/48e35896-034f-4a05-a923-6f5ca7def4c6)
+- [HashiCorp Certified: Terraform Associate (HCTA0-003)](https://www.credly.com/badges/48e35896-034f-4a05-a923-6f5ca7def4c6)
 - [Certified Professional for Software Architecture (iSAQB CPSA-F)](https://zertdb.isqi.org/de/download/certificate/token/zQcwjW%241A_-V_t6a-9_7)
 - [Agile Scrum Master](https://mylogin.exin.nl/polarserver.asp?FrameSet=Minimal&ToolName=CertificateCheckTool&Framed=1&LastName=Schindlbeck&CertificateNumber=6337316.20794863&ModuleID=630589)
 - [Agile Scrum Product Owner](https://mylogin.exin.nl/AppPool_5/polarserver.asp?FrameSet=Minimal&ToolName=CertificateCheckTool&Framed=1&LastName=Schindlbeck&CertificateNumber=6337316.20794001&ModuleID=630641&SID=80DACB7C5BBC16548C800E6EB9583B7C&PageID=0)
@@ -209,7 +209,7 @@ See my certifications on 👉🏻[Credly](https://www.credly.com/users/chris-sch
     1250 ┤
 
 User: christopsy666, Rating type: Bullet on lichess.org
-Last update: 01.07.2025 05:30:21
+Last update: 07.07.2025 07:08:35
 </code>
 </pre>
 Lichess stats generated via [lichess-ascii-rating-tracker](https://github.com/cschindlbeck/lichess-ascii-rating-tracker.git).
