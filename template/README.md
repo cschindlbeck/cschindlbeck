@@ -150,22 +150,27 @@ Verify my certifications on 👉🏻 [Credly](https://www.credly.com/users/chris
 ### Certifications
 
 <p align="center">
+  <a href="https://www.credly.com/badges/08c7a385-98d8-4c91-86ac-dd89bec01d57" target="_blank"><img alt="github-advanced-security" src="https://images.credly.com/images/c9ed294b-f8ac-48fa-a8c3-96dab1f110f2/image.png" width="125" height="125"></a>
   <a href="https://www.credly.com/badges/9d1c30b5-f3ec-4f38-9087-3176ba41f667" target="_blank"><img alt="cka" src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="125" height="125"></a>
   <a href="https://www.credly.com/badges/48e35896-034f-4a05-a923-6f5ca7def4c6" target="_blank"><img alt="terraform-associate" src="https://images.credly.com/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" width="125" height="125"></a>
-  <a href="https://www.credly.com/badges/08c7a385-98d8-4c91-86ac-dd89bec01d57" target="_blank"><img alt="github-advanced-security" src="https://images.credly.com/images/c9ed294b-f8ac-48fa-a8c3-96dab1f110f2/image.png" width="125" height="125"></a>
   <!-- <a href="https://www.gernotstarke.de/images/certification/cpsa-f-logo.png" target="_blank"><img alt="iSAQB" src="CPSA-F)](https://zertdb.isqi.org/de/download/certificate/token/zQcwjW%241A_-V_t6a-9_7)" width="125" height="125"></a> -->
   <a href="https://mylogin.exin.nl/polarserver.asp?Script=GetLinkedInPost&CandidateCertificateGUID=65C88A1D-8FF0-4075-89C5-6416E2335F56&ts=801114640" target="_blank"><img alt="scrum-master" src="https://mylogin.exin.nl/BlobData/Exillence/MultiModuleCertificate/CertificateBadgeImage/630589.png?s=43641.5914699074" width="125" height="125"></a>
   <a href="https://mylogin.exin.nl/polarserver.asp?Script=GetLinkedInPost&CandidateCertificateGUID=B140654E-0650-4922-8F9A-C8714CB48603&ts=801114656" target="_blank"><img alt="scrum-product-owner" src="https://mylogin.exin.nl/BlobData/Exillence/MultiModuleCertificate/CertificateBadgeImage/630641.png?ts=43641.5919212963" width="125" height="125"></a>
 </p>
 
 #### 2025
+
 - [GitHub Advanced Security](https://www.credly.com/badges/08c7a385-98d8-4c91-86ac-dd89bec01d57/public_url)
 - [Certified Kubernetes Administrator (CKA)](https://www.credly.com/badges/9d1c30b5-f3ec-4f38-9087-3176ba41f667/public_url)
+
 #### 2024
+
 - [HashiCorp Certified: Terraform Associate (HCTA0-003)](https://www.credly.com/badges/48e35896-034f-4a05-a923-6f5ca7def4c6)
-#### 2023
+
+#### 2022
 
 - [Certified Professional for Software Architecture (iSAQB CPSA-F)](https://zertdb.isqi.org/de/download/certificate/token/zQcwjW%241A_-V_t6a-9_7)
+
 #### 2020
 
 - [Agile Scrum Master](https://mylogin.exin.nl/polarserver.asp?FrameSet=Minimal&ToolName=CertificateCheckTool&Framed=1&LastName=Schindlbeck&CertificateNumber=6337316.20794863&ModuleID=630589)
