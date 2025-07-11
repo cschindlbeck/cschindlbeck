@@ -145,6 +145,8 @@ Connect with me on:
 
 ## 🏅 My Certifications & Courses
 
+Verify my certifications on 👉🏻 [Credly](https://www.credly.com/users/chris-schindlbeck) and [CertDirectory.io](https://certdirectory.io/profile/65263cfc-1d9c-41f1-9bbe-52e4af35ab07)
+
 ### Certifications
 
 <p align="center">
@@ -156,10 +158,16 @@ Connect with me on:
   <a href="https://mylogin.exin.nl/polarserver.asp?Script=GetLinkedInPost&CandidateCertificateGUID=B140654E-0650-4922-8F9A-C8714CB48603&ts=801114656" target="_blank"><img alt="scrum-product-owner" src="https://mylogin.exin.nl/BlobData/Exillence/MultiModuleCertificate/CertificateBadgeImage/630641.png?ts=43641.5919212963" width="125" height="125"></a>
 </p>
 
+#### 2025
 - [GitHub Advanced Security](https://www.credly.com/badges/08c7a385-98d8-4c91-86ac-dd89bec01d57/public_url)
 - [Certified Kubernetes Administrator (CKA)](https://www.credly.com/badges/9d1c30b5-f3ec-4f38-9087-3176ba41f667/public_url)
+#### 2024
 - [HashiCorp Certified: Terraform Associate (HCTA0-003)](https://www.credly.com/badges/48e35896-034f-4a05-a923-6f5ca7def4c6)
+#### 2023
+
 - [Certified Professional for Software Architecture (iSAQB CPSA-F)](https://zertdb.isqi.org/de/download/certificate/token/zQcwjW%241A_-V_t6a-9_7)
+#### 2020
+
 - [Agile Scrum Master](https://mylogin.exin.nl/polarserver.asp?FrameSet=Minimal&ToolName=CertificateCheckTool&Framed=1&LastName=Schindlbeck&CertificateNumber=6337316.20794863&ModuleID=630589)
 - [Agile Scrum Product Owner](https://mylogin.exin.nl/AppPool_5/polarserver.asp?FrameSet=Minimal&ToolName=CertificateCheckTool&Framed=1&LastName=Schindlbeck&CertificateNumber=6337316.20794001&ModuleID=630641&SID=80DACB7C5BBC16548C800E6EB9583B7C&PageID=0)
 
@@ -175,8 +183,6 @@ Connect with me on:
 
 - [Amazon EKS](https://www.credly.com/badges/51fa72ad-75ef-4068-815c-27d28b95dda5/public_url)
 - [KodeKloud Kustomize](https://learn.kodekloud.com/certificate/c3c9d63c-d5a2-4ee5-bc31-fd029996cb2e)
-
-See my certifications on 👉🏻[Credly](https://www.credly.com/users/chris-schindlbeck) and [CertDirectory.io](https://certdirectory.io/profile/65263cfc-1d9c-41f1-9bbe-52e4af35ab07)
 
 ## 📈 My Github Stats
 
