@@ -179,6 +179,7 @@ Verify my certifications on 👉🏻 [Credly](https://www.credly.com/users/chris
 ### Courses
 
 <p align="center">
+  <a href="https://www.credly.com/badges/93fdef32-ad86-4092-a1dc-8a2b96ba7792" target="_blank"><img alt="amazon-well-architected" src="https://images.credly.com/images/b870667f-00a3-48d7-b988-9c02b441b883/image.png" width="125" height="125"></a>
   <a href="https://www.credly.com/badges/51fa72ad-75ef-4068-815c-27d28b95dda5" target="_blank"><img alt="amazon-eks" src="https://images.credly.com/images/9bcbde6d-1754-4617-9337-124f7b10a6c2/image.png" width="125" height="125"></a>
   <a href="https://www.credly.com/badges/9055e89c-946d-4c0d-8bac-816a832e3d7f" target="_blank"><img alt="amazon-architecting" src="https://images.credly.com/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png" width="125" height="125"></a>
   <a href="https://www.credly.com/badges/0f74fa2f-6574-4221-8dbf-9e73ad4f2cd1" target="_blank"><img alt="amazon-cloud-quest-cloud-practitioner" src="https://images.credly.com/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" width="125" height="125"></a>
@@ -186,7 +187,12 @@ Verify my certifications on 👉🏻 [Credly](https://www.credly.com/users/chris
   <a href="https://www.credly.com/badges/415ed9a9-03c4-484d-8cb5-bc349f2f68a9" target="_blank"><img alt="educate-gen-ai" src="https://images.credly.com/images/4b68a030-53d0-414b-be57-b1837bc3b3e6/image.png" width="125" height="125"></a>
 </p>
 
-- [Amazon EKS](https://www.credly.com/badges/51fa72ad-75ef-4068-815c-27d28b95dda5/public_url)
+- [AWS Well-Architected Proficient](https://www.credly.com/badges/93fdef32-ad86-4092-a1dc-8a2b96ba7792)
+- [AWS Technology: Amazon EKS](https://www.credly.com/badges/51fa72ad-75ef-4068-815c-27d28b95dda5)
+- [AWS Technology: Architecting](https://www.credly.com/badges/9055e89c-946d-4c0d-8bac-816a832e3d7f)
+- [AWS Cloud Quest: Cloud Practitioner](https://www.credly.com/badges/0f74fa2f-6574-4221-8dbf-9e73ad4f2cd1)
+- [AWS Educate: Getting Started with Networking](https://www.credly.com/badges/4d2938d5-6157-4016-a5b7-24e19ccfb699)
+- [AWS Educate: Introduction to Generative AI](https://www.credly.com/badges/415ed9a9-03c4-484d-8cb5-bc349f2f68a9)
 - [KodeKloud Kustomize](https://learn.kodekloud.com/certificate/c3c9d63c-d5a2-4ee5-bc31-fd029996cb2e)
 
 ## 📈 My Github Stats
