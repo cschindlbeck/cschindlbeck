@@ -161,6 +161,7 @@ Verify my certifications on 👉🏻 [Credly](https://www.credly.com/users/chris
 
 #### 2025
 
+- [AWS Certified Solution Architect Associate](https://www.credly.com/badges/3d801a05-7520-4c3c-836f-f5e708f7eb6d/public_url)
 - [GitHub Advanced Security](https://www.credly.com/badges/08c7a385-98d8-4c91-86ac-dd89bec01d57/public_url)
 - [Certified Kubernetes Administrator (CKA)](https://www.credly.com/badges/9d1c30b5-f3ec-4f38-9087-3176ba41f667/public_url)
 
