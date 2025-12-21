@@ -150,6 +150,7 @@ Verify my certifications on 👉🏻 [Credly](https://www.credly.com/users/chris
 ### Certifications
 
 <p align="center">
+  <a href="https://www.credly.com/badges/3d801a05-7520-4c3c-836f-f5e708f7eb6d/public_url" target="_blank"><img alt="aws-saa-c03" src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="125" height="125"></a>
   <a href="https://www.credly.com/badges/08c7a385-98d8-4c91-86ac-dd89bec01d57" target="_blank"><img alt="github-advanced-security" src="https://images.credly.com/images/c9ed294b-f8ac-48fa-a8c3-96dab1f110f2/image.png" width="125" height="125"></a>
   <a href="https://www.credly.com/badges/9d1c30b5-f3ec-4f38-9087-3176ba41f667" target="_blank"><img alt="cka" src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="125" height="125"></a>
   <a href="https://www.credly.com/badges/48e35896-034f-4a05-a923-6f5ca7def4c6" target="_blank"><img alt="terraform-associate" src="https://images.credly.com/size/340x340/images/0dc62494-dc94-469a-83af-e35309f27356/blob" width="125" height="125"></a>
@@ -160,6 +161,7 @@ Verify my certifications on 👉🏻 [Credly](https://www.credly.com/users/chris
 
 #### 2025
 
+- [AWS Certified Solution Architect Associate](https://www.credly.com/badges/3d801a05-7520-4c3c-836f-f5e708f7eb6d/public_url)
 - [GitHub Advanced Security](https://www.credly.com/badges/08c7a385-98d8-4c91-86ac-dd89bec01d57/public_url)
 - [Certified Kubernetes Administrator (CKA)](https://www.credly.com/badges/9d1c30b5-f3ec-4f38-9087-3176ba41f667/public_url)
 
