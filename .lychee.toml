@@ -1,0 +1,10 @@
+# Config for lychee (https://github.com/lycheeverse/lychee)
+# Run locally with: lychee --config .lychee.toml README.md template/README.md
+
+# These sites return non-2xx codes to bots even though the links work fine
+# in a browser (verified manually).
+exclude = [
+  "https://www.linkedin.com/in/chrisschindlbeck",
+  "https://www.researchgate.net/profile/Christopher-Schindlbeck",
+  "https://leetcode.com/cschindlbeck",
+]
