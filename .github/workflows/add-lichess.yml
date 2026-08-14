@@ -11,6 +11,7 @@ env:
   API_TOKEN: ${{ secrets.API_TOKEN }}
 jobs:
   build:
+    if: github.actor != 'dependabot[bot]'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
