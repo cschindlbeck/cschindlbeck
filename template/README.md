@@ -150,6 +150,12 @@ Verify my certifications on 👉🏻 [Credly](https://www.credly.com/users/chris
 ### Certifications
 
 <p align="center">
+  <a href="https://certdirectory.io/profile/chris-schindlbeck?utm_source=github&utm_medium=readme">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://certdirectory.io/badge/chris-schindlbeck.svg?style=card&theme=dark">
+      <img alt="Chris Schindlbeck on CertDirectory" src="https://certdirectory.io/badge/chris-schindlbeck.svg?style=card">
+    </picture>
+  </a>
   <a href="https://www.credly.com/badges/c43fb86c-af98-4e2f-98fe-5c3360a77b98/public_url" target="_blank"><img alt="cncf-kcsa" src="https://images.credly.com/size/110x110/images/67dd8a95-8876-4051-9cb9-3d97c204f85a/image.png" width="125" height="125"></a>
   <a href="https://www.credly.com/badges/50666933-b41a-424a-9b60-dc4a3bb62659/public_url" target="_blank"><img alt="cncf-ckad" src="https://images.credly.com/size/340x340/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" width="125" height="125"></a>
   <a href="https://www.credly.com/badges/87de9051-3542-4d80-a582-9461933177a1/public_url" target="_blank"><img alt="cncf-kcna" src="https://images.credly.com/size/340x340/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" width="125" height="125"></a>
