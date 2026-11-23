@@ -33,13 +33,16 @@ jobs:
           echo "Lichess stats generated via [lichess-ascii-rating-tracker](https://github.com/cschindlbeck/lichess-ascii-rating-tracker.git)." >> ../README.md
           cd ..
       - name: Push README
+        env:
+          # head_ref is set on pull_request events, ref_name (main) on push events
+          BRANCH: ${{ github.head_ref || github.ref_name }}
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898283+github-actions[bot]@users.noreply.github.com"
           git fetch --all
-          git checkout ${{ github.event.pull_request.head.ref }}
+          git checkout "$BRANCH"
           # Force add since README is on gitignore
           git add -f README.md
           # Prevent empty add to result in error
           git diff-index --quiet HEAD || git commit -m "Updated README with lichess"
-          git push origin ${{ github.event.pull_request.head.ref }}
+          git push origin "$BRANCH"
