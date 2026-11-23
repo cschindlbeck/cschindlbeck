@@ -21,12 +21,13 @@ jobs:
           cat template/README.md > README.md
           git clone https://github.com/cschindlbeck/lichess-ascii-rating-tracker.git
           cd lichess-ascii-rating-tracker
-          sudo rm -rf /usr/lib/python3/dist-packages/simplejson
+          python3 -m venv .venv
+          . .venv/bin/activate
           pip install -r requirements.txt
           echo "## &#9816; My Lichess Stats" >> ../README.md
           echo "<pre>" >> ../README.md
           echo "<code>" >> ../README.md
-          python3 lichess_ascii_tracker.py -r Bullet >> ../README.md
+          python3 lichess_ascii_tracker.py -r bullet >> ../README.md
           echo "</code>" >> ../README.md
           echo "</pre>" >> ../README.md
           echo "Lichess stats generated via [lichess-ascii-rating-tracker](https://github.com/cschindlbeck/lichess-ascii-rating-tracker.git)." >> ../README.md
