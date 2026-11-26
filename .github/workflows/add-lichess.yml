@@ -21,24 +21,30 @@ jobs:
           cat template/README.md > README.md
           git clone https://github.com/cschindlbeck/lichess-ascii-rating-tracker.git
           cd lichess-ascii-rating-tracker
-          sudo rm -rf /usr/lib/python3/dist-packages/simplejson
+          python3 -m venv .venv
+          . .venv/bin/activate
           pip install -r requirements.txt
           echo "## &#9816; My Lichess Stats" >> ../README.md
           echo "<pre>" >> ../README.md
           echo "<code>" >> ../README.md
-          python3 lichess_ascii_tracker.py -r Bullet >> ../README.md
+          # The CLI only accepts display names (Bullet), but the Lichess API check needs API names (bullet).
+          # Call the class directly with the API name instead of changing the tracker.
+          python3 -c "from lichess_ascii_tracker import LichessChartGenerator; LichessChartGenerator('bullet').run()" >> ../README.md
           echo "</code>" >> ../README.md
           echo "</pre>" >> ../README.md
           echo "Lichess stats generated via [lichess-ascii-rating-tracker](https://github.com/cschindlbeck/lichess-ascii-rating-tracker.git)." >> ../README.md
           cd ..
       - name: Push README
+        env:
+          # head_ref is set on pull_request events, ref_name (main) on push events
+          BRANCH: ${{ github.head_ref || github.ref_name }}
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898283+github-actions[bot]@users.noreply.github.com"
           git fetch --all
-          git checkout ${{ github.event.pull_request.head.ref }}
+          git checkout "$BRANCH"
           # Force add since README is on gitignore
           git add -f README.md
           # Prevent empty add to result in error
           git diff-index --quiet HEAD || git commit -m "Updated README with lichess"
-          git push origin ${{ github.event.pull_request.head.ref }}
+          git push origin "$BRANCH"

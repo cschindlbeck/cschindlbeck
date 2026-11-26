@@ -161,6 +161,14 @@ Verify my certifications on 👉🏻 [Credly](https://www.credly.com/users/chris
   <a href="https://mylogin.exin.nl/polarserver.asp?Script=GetLinkedInPost&CandidateCertificateGUID=65C88A1D-8FF0-4075-89C5-6416E2335F56&ts=801114640" target="_blank"><img alt="scrum-master" src="https://mylogin.exin.nl/BlobData/Exillence/MultiModuleCertificate/CertificateBadgeImage/630589.png?s=43641.5914699074" width="125" height="125"></a>
   <a href="https://mylogin.exin.nl/polarserver.asp?Script=GetLinkedInPost&CandidateCertificateGUID=B140654E-0650-4922-8F9A-C8714CB48603&ts=801114656" target="_blank"><img alt="scrum-product-owner" src="https://mylogin.exin.nl/BlobData/Exillence/MultiModuleCertificate/CertificateBadgeImage/630641.png?ts=43641.5919212963" width="125" height="125"></a>
 </p>
+<p align="center">
+  <a href="https://certdirectory.io/profile/chris-schindlbeck?utm_source=github&utm_medium=readme">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://certdirectory.io/badge/chris-schindlbeck.svg?style=card&theme=dark">
+      <img alt="Chris Schindlbeck on CertDirectory" src="https://certdirectory.io/badge/chris-schindlbeck.svg?style=card">
+    </picture>
+  </a>
+</p>
 
 #### 2026
 
