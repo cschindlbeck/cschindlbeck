@@ -27,7 +27,9 @@ jobs:
           echo "## &#9816; My Lichess Stats" >> ../README.md
           echo "<pre>" >> ../README.md
           echo "<code>" >> ../README.md
-          python3 lichess_ascii_tracker.py -r bullet >> ../README.md
+          # The CLI only accepts display names (Bullet), but the Lichess API check needs API names (bullet).
+          # Call the class directly with the API name instead of changing the tracker.
+          python3 -c "from lichess_ascii_tracker import LichessChartGenerator; LichessChartGenerator('bullet').run()" >> ../README.md
           echo "</code>" >> ../README.md
           echo "</pre>" >> ../README.md
           echo "Lichess stats generated via [lichess-ascii-rating-tracker](https://github.com/cschindlbeck/lichess-ascii-rating-tracker.git)." >> ../README.md
