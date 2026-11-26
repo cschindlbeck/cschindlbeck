@@ -150,6 +150,7 @@ Verify my certifications on 👉🏻 [Credly](https://www.credly.com/users/chris
 ### Certifications
 
 <p align="center">
+  <a href="https://www.credly.com/badges/c43fb86c-af98-4e2f-98fe-5c3360a77b98/public_url" target="_blank"><img alt="cncf-kcsa" src="https://images.credly.com/size/110x110/images/67dd8a95-8876-4051-9cb9-3d97c204f85a/image.png" width="125" height="125"></a>
   <a href="https://www.credly.com/badges/50666933-b41a-424a-9b60-dc4a3bb62659/public_url" target="_blank"><img alt="cncf-ckad" src="https://images.credly.com/size/340x340/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" width="125" height="125"></a>
   <a href="https://www.credly.com/badges/87de9051-3542-4d80-a582-9461933177a1/public_url" target="_blank"><img alt="cncf-kcna" src="https://images.credly.com/size/340x340/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" width="125" height="125"></a>
   <a href="https://www.credly.com/badges/3d801a05-7520-4c3c-836f-f5e708f7eb6d/public_url" target="_blank"><img alt="aws-saa-c03" src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="125" height="125"></a>
@@ -160,9 +161,18 @@ Verify my certifications on 👉🏻 [Credly](https://www.credly.com/users/chris
   <a href="https://mylogin.exin.nl/polarserver.asp?Script=GetLinkedInPost&CandidateCertificateGUID=65C88A1D-8FF0-4075-89C5-6416E2335F56&ts=801114640" target="_blank"><img alt="scrum-master" src="https://mylogin.exin.nl/BlobData/Exillence/MultiModuleCertificate/CertificateBadgeImage/630589.png?s=43641.5914699074" width="125" height="125"></a>
   <a href="https://mylogin.exin.nl/polarserver.asp?Script=GetLinkedInPost&CandidateCertificateGUID=B140654E-0650-4922-8F9A-C8714CB48603&ts=801114656" target="_blank"><img alt="scrum-product-owner" src="https://mylogin.exin.nl/BlobData/Exillence/MultiModuleCertificate/CertificateBadgeImage/630641.png?ts=43641.5919212963" width="125" height="125"></a>
 </p>
+<p align="center">
+  <a href="https://certdirectory.io/profile/chris-schindlbeck?utm_source=github&utm_medium=readme">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://certdirectory.io/badge/chris-schindlbeck.svg?style=card&theme=dark">
+      <img alt="Chris Schindlbeck on CertDirectory" src="https://certdirectory.io/badge/chris-schindlbeck.svg?style=card">
+    </picture>
+  </a>
+</p>
 
 #### 2026
 
+- [Kubernetes Certified Security Associate (KCSA)](https://www.credly.com/badges/c43fb86c-af98-4e2f-98fe-5c3360a77b98/public_url)
 - [Certified Kubernetes Application Developer (CKAD)](https://www.credly.com/badges/50666933-b41a-424a-9b60-dc4a3bb62659/public_url)
 - [Kubernetes and Cloud Native Associate (KCNA)](https://www.credly.com/badges/87de9051-3542-4d80-a582-9461933177a1/public_url)
 
@@ -251,8 +261,8 @@ Verify my certifications on 👉🏻 [Credly](https://www.credly.com/users/chris
     1315 ┤╰╮╭╯
     1247 ┤ ╰╯
 
-User: christopsy666, Rating type: Bullet on lichess.org
-Last update: 01.10.2026 05:34:59
+User: christopsy666, Rating type: bullet on lichess.org
+Last update: 26.11.2026 07:49:23
 </code>
 </pre>
 Lichess stats generated via [lichess-ascii-rating-tracker](https://github.com/cschindlbeck/lichess-ascii-rating-tracker.git).
